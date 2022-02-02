@@ -6,6 +6,6 @@ Pyautogui-BF is a bruteforcing tool designed for testing the strength of a passw
 ![alt text](https://github.com/MntlPrblm/Pyautogui-BF/blob/main/screenshots/Pyautogui-bf1.PNG)
 
 # INSTRUCTIONS
-git clone https://github.com/MntlPrblm/Pyautogui-BF.git
-pip install -r requirements.txt
+git clone https://github.com/MntlPrblm/Pyautogui-BF.git\n
+pip install -r requirements.txt\n
 python main.py
